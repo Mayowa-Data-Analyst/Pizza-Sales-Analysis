@@ -23,7 +23,7 @@ The goal is to generate actionable insights to help with pricing, promotions, an
 
   ---
   ## Dataset
-The dataset is stored in Excel (`pizza_sales.xlsx`) and contains transactional data including:
+The dataset is stored in Excel (`pizza_sales_excel_file.xlsx`) and contains transactional data including:
 - Order date and time
 - Pizza category and size
 - Quantity sold
