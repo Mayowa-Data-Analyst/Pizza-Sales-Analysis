@@ -14,3 +14,19 @@
 ##  Project Overview
 This project analyzes pizza sales data to uncover revenue trends, customer behavior, and product performance.  
 The goal is to generate actionable insights to help with pricing, promotions, and inventory planning.
+
+---
+
+## Tools Used
+- Microsoft Excel (data cleaning, pivot tables, dashboard)
+- Data Visualization (charts in Excel dashboard)
+
+  ---
+  ## Dataset
+The dataset is stored in Excel (`pizza_sales.xlsx`) and contains transactional data including:
+- Order date and time
+- Pizza category and size
+- Quantity sold
+- Revenue
+
+> Note: This is the main source for all analysis and dashboard visualizations.
