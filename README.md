@@ -56,8 +56,5 @@ The dataset is stored in Excel [Download the dataset](data/pizza_sales_excel_fil
 ## Outcome and Learning
 This Project demonstrate practical Excel-based analytics and dashboard storytelling, translating raw data into actionable business decisions. It strengthened my skills in data cleaning, KPI designs, time-based analysis, and business insight generation
 
----
-## Dashboard
-View the dashboard [here](Dashboard/Pizza Sales Dashboard.png)
 
 
