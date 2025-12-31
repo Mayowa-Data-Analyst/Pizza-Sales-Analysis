@@ -3,10 +3,10 @@
 ## Table of Contents
 ---
 - [Project Overview](#project-overview)
-- [Tools](#tools)
+- [Tools Used](#tools-used)
 - [Data Sources](#data-sources)
 - [Data Cleaning/Preparation](data-cleaning/preparation)
-- [Key Business Question](#key-business-question)
+- [Key Business Questions](#key-business-questions)
 - [Insights](#Insights)
 - [Recommendations](#recommendations)
 - [Outcomes and Learning](#outcomes-and-learning)
@@ -22,7 +22,7 @@ The goal is to generate actionable insights to help with pricing, promotions, an
 - Microsoft Excel (data cleaning, pivot tables, dashboard)
 - Data Visualization (charts in Excel dashboard)
 ---
-  ## Dataset
+  ## Data Sources
 The dataset is stored in Excel [Download the dataset](data/pizza_sales_excel_file.xlsx) and contains transactional data including:
 - Order date and time
 - Pizza category and size
