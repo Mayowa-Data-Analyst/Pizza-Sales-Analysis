@@ -58,6 +58,6 @@ This Project demonstrate practical Excel-based analytics and dashboard storytell
 
 ---
 ## Dashboard
-View the dashboard [here]()
+View the dashboard [here](Dashboard/Pizza Sales Dashboard.png)
 
 
