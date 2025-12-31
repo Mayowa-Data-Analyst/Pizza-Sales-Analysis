@@ -5,7 +5,6 @@
 - [Project Overview](#project-overview)
 - [Tools Used](#tools-used)
 - [Data Sources](#data-sources)
-- [Data Cleaning/Preparation](data-cleaning/preparation)
 - [Key Business Questions](#key-business-questions)
 - [Insights](#Insights)
 - [Recommendations](#recommendations)
