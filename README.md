@@ -12,8 +12,7 @@
 ---
 
 ##  Project Overview
-This project analyzes pizza sales data to uncover revenue trends, customer behavior, and product performance.  
-The goal is to generate actionable insights to help with pricing, promotions, and inventory planning.
+Performed comprehensive sales analysis on 2015 pizza retailer dataset to identify revenue-driving periods, customer purchase patterns, and product profitability, supporting data-driven refinements to pricing and promotion.
 
 ---
 
